@@ -12,6 +12,7 @@ This project is a simple, responsive landing page built using HTML and CSS. The 
 - [Usage](#usage)
 - [License](#license)
 
+
 ## Features
 
 - Responsive design that adjusts to different screen sizes
@@ -24,6 +25,9 @@ This project is a simple, responsive landing page built using HTML and CSS. The 
 - HTML
 - CSS
 - [Remix Icon](https://remixicon.com/) for icons
+
+- ![image](https://github.com/user-attachments/assets/30b5918e-016a-4fe1-8c61-38df7214936f)
+
 
 ## Installation
 
